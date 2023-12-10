@@ -1,0 +1,2 @@
+Calculator App
+This is a simple calculator app with basic functionality implemented in JavaScript. The calculator allows users to perform arithmetic operations and provides a display for input and results.
